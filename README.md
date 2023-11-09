@@ -5,3 +5,8 @@ The project involves the real estate prices in the city of Ames located in Iowa 
 ### Data Set
 I have created two tables as there are two datasets with multiple variables. First one being Train and another one being Test. Dataset contains many variables which have null values and have been characterized improperly in terms of their data structure. It is been later processed and characterized rightly for its types. 
 
+### Data Collection and Analysis
+Databricks Python Notebook (PySpark, NumPy, Pandas, Matplotlib, Seaborn) & SQL
+
+### Project Timeline
+October 2023
